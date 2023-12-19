@@ -195,11 +195,11 @@ print(first_num, second_num)
 # print("Цифра в позиции единиц равна", four)
 
 # n = int(input())
-# print(n + n * 11 + n * 111) 
+# print(n + n * 11 + n * 111)
 
-answer = input('What is programming language we learning ?')
-if answer == 'Python':
-    print('Python right !')
+answer = input("What is programming language we learning ?")
+if answer == "Python":
+    print("Python right !")
 else:
-    print('Wrong !')
-
+    print("Wrong !")
+    print("Zalupa")
