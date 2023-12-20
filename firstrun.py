@@ -204,4 +204,4 @@ else:
     print("Wrong !")
     print("Zalupa")
     print("xaxaxaxaxa")
-    print("lol")
+    print("lollll")
