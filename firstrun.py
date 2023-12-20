@@ -205,3 +205,4 @@ else:
     print("Zalupa")
     print("xaxaxaxaxa")
     print("lollll")
+    print("main")
