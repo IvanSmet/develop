@@ -202,7 +202,7 @@ if answer == "Python":
     print("Python right !")
 else:
     print("Wrong !")
-    print("Zalupa")
-    print("xaxaxaxaxa")
-    print("lollll")
-    print("main")
+    print("it`s a trap")
+    print("hah")
+    print("lol")
+    print("meeeeen")
