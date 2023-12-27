@@ -205,4 +205,4 @@ else:
     print("it`s a trap")
     print("hah")
     print("lol")
-    print("meeeeenddd")
+    print("kek")
